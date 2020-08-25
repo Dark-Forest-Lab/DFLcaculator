@@ -19,10 +19,10 @@
 2. area
 3. perimeter
 4. diagonal
-side*side=area;
-side*4=perimeter;
-side*side*2=diagonal;
-diagonal*diagonal/2=area;
+5. side * side=area;
+6. side * 4=perimeter;
+7. side * side * 2=diagonal;
+8. diagonal * diagonal/2=area;
 
 #### regular pentagon (Temporarily unavailable)
 #### regular hexagon (Temporarily unavailable)
@@ -36,4 +36,11 @@ diagonal*diagonal/2=area;
 ## rule
 
 ### How to name
-#### 
+#### nmae of variable
+> owned file_for what
+##### like this
+> main.cpp_AcceptCatalogSelection
+#### name of moudle
+> classification
+##### like this
+> geometry_square
