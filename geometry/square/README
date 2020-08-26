@@ -1,0 +1,10 @@
+square
+
+1. side
+2. area
+3. perimeter
+4. diagonal
+5. side * side=area;
+6. side * 4=perimeter;
+7. side * side * 2=diagonal;
+8. diagonal * diagonal / 2=area;
